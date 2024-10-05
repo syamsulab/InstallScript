@@ -7,6 +7,7 @@
 # in one Ubuntu because of the different xmlrpc_ports
 #-------------------------------------------------------------------------------
 # Make a new file:
+# sudo wget https://raw.githubusercontent.com/syamsulab/InstallScript/refs/heads/main/odoo_install.sh
 # sudo nano odoo-install.sh
 # Place this content in it and then make the file executable:
 # sudo chmod +x odoo-install.sh
