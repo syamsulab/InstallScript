@@ -8,9 +8,9 @@
 #-------------------------------------------------------------------------------
 # Make a new file:
 # sudo wget https://raw.githubusercontent.com/syamsulab/InstallScript/refs/heads/main/odoo_install.sh
-# sudo nano odoo-install.sh
+# sudo nano odoo_install.sh
 # Place this content in it and then make the file executable:
-# sudo chmod +x odoo-install.sh
+# sudo chmod +x odoo_install.sh
 # Execute the script to install Odoo:
 # ./odoo-install
 ################################################################################
